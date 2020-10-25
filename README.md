@@ -15,7 +15,7 @@ Still in progress...
 
 
 # Web Scraping
-I scraped 1000 job postings from glassdoor.com and categorized the information in the following columns:
+I scraped job openings from glassdoor.com and categorized the information in the following columns:
 
  * Job title
  * Salary Estimate
