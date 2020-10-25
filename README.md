@@ -33,7 +33,7 @@ I scraped job openings from glassdoor.com and categorized the information in the
  * Competitors
  
  # Data Cleaning
- After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
+ After I was done with scraping the data, I needed to clean it up so that it could be used for modelling. I made the following changes and created the following variables:
 
  * Parsed numeric data out of salary
  * Made columns for employer provided salary and hourly wages
