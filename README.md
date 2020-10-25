@@ -2,9 +2,9 @@
 
 Still in progress...
 
-# Data Science Salary Estimator:
-  * Created a tool that estimates data science salaries based on some features.
-  *	Scraped over 1000 job descriptions from glassdoor using python and selenium
+# Data Science Salary Estimator
+  * Created a tool that predicts data science salaries based on some features.
+  *	Scraped over 1000 job descriptions from glassdoor using python.
 
   *	Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
 
