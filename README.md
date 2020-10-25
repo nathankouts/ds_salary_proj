@@ -6,7 +6,7 @@ Still in progress...
   * Created a tool that predicts data science salaries based on some features.
   *	Scraped over 1000 job descriptions from glassdoor using python.
 
-  *	Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
+  *	Analyzed the text of each job description to see the value that companies put on python, excel, aws, and spark.
 
   *	Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 
