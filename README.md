@@ -14,7 +14,7 @@ Still in progress...
 
 
 # Code and Resources Used
-**Python Version:** 3.7\n
+**Python Version:** 3.8
 
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
 
