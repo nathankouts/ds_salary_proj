@@ -50,3 +50,8 @@ I scraped job openings from glassdoor.com and categorized the information in the
     * Spark
  * Column for simplified job title and Seniority
  * Column for description length
+ 
+ # Exploratory Data Analysis (EDA)
+ I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+ 
+ 
