@@ -53,5 +53,8 @@ I scraped job openings from glassdoor.com and categorized the information in the
  
  # Exploratory Data Analysis (EDA)
  I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+ 
 ![alt text](https://github.com/nathankouts/ds_salary_proj/blob/master/job_by_salary.png?raw=true)
+![alt text](https://github.com/nathankouts/ds_salary_proj/blob/master/job_state.png?raw=true)
+![alt text](https://github.com/nathankouts/ds_salary_proj/blob/master/corr.png?raw=true)
  
